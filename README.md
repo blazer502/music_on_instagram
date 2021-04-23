@@ -7,7 +7,7 @@ I just make it myself because [Audiogram](https://getaudiogram.com/) asked me to
 ## 2 Goal
 Create a pretty video converter for uploading music to instagram.
 
-------------------------------------------------------------------
+
 ## 3 Design
 
 ### 3.1 Plan
